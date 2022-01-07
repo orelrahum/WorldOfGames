@@ -1,6 +1,7 @@
 # Created by : Orel Rahum
 # This file has Auxiliary functions for my project
 
+
 def input_number(text):
     while True:
         try:
