@@ -9,8 +9,8 @@ color_list = {"white": '\033[0m', "red": '\033[31m', "green": '\033[32m', "orang
 
 ##################################################################################################
 
-difficulty_list_number = {1: 10, 2: 20, 3: 30, 4: 40, 5: 50}
-difficulty_list_guess = {1: 2, 2: 4, 3: 6, 4: 8, 5: 10}
+difficulty_list_number = {1: 10, 2: 25, 3: 45, 4: 60, 5: 85}
+difficulty_list_guess = {1: 4, 2: 5, 3: 6, 4: 7, 5: 8}
 
 
 def generate_number(difficulty_number):
